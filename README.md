@@ -2,16 +2,7 @@
 Theoretical Mechanics Final Homework
 
 ## Double (and more) Pendulum
-1. funf
-2. funf
-3. funf
-4. funf
-5. funf
+solves the euler-lagrange equations for an n-Pendulum given a arrays of mass and length (gravitational acceleration can be tuned optionally) and initial conditions for the angles and their initial rates of change
 
 ## Gravitational orbits in Cartesian Coordinates
-1. foo
-2. foo
-3. foo
-4. foo
-5. foo
-6. foo
+
